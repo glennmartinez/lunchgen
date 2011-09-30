@@ -14,7 +14,7 @@ gem 'thin'
 gem 'heroku'
 # Use unicorn as the web server
 # gem 'unicorn'
-#this shit is not updating source.
+#this shit is not updating source.erere
 # Deploy with Capistrano
 # gem 'capistrano'
 
